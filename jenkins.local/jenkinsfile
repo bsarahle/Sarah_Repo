@@ -15,7 +15,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo "Hello from Test"
+                echo "Hello from Test2"
             }
         }
         stage('Deploy') {
